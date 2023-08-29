@@ -33,10 +33,10 @@
 
 ---
 ### Отчет Allure
-![Jacoco report](https://github.com/gh-Denis/diplom-2/blob/develop2/src/main/resources/Allure_report_1.PNG)
-![Jacoco report](https://github.com/gh-Denis/diplom-2/blob/develop2/src/main/resources/Allure_report_2.PNG)
-![Jacoco report](https://github.com/gh-Denis/diplom-2/blob/develop2/src/main/resources/Allure_report_3.PNG)
-![Jacoco report](https://github.com/gh-Denis/diplom-2/blob/develop2/src/main/resources/Allure_report_4.PNG)
+![Jacoco report](https://github.com/gh-Denis/diplom-2/blob/main/src/main/resources/Allure_report_1.PNG)
+![Jacoco report](https://github.com/gh-Denis/diplom-2/blob/main/src/main/resources/Allure_report_2.PNG)
+![Jacoco report](https://github.com/gh-Denis/diplom-2/blob/main/src/main/resources/Allure_report_3.PNG)
+![Jacoco report](https://github.com/gh-Denis/diplom-2/blob/main/src/main/resources/Allure_report_4.PNG)
 
 ---
 #### Использованы технологии:
